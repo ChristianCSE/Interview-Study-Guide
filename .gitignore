@@ -1,0 +1,26 @@
+#OSX
+ .DS_Store
+
+#npm
+node_modules
+
+#New Relic
+dump.rdb
+
+#javaC
+*.class
+*.iml
+*.gradle
+*/local.properties
+*/.idea/workspace.xml
+*/.idea/libraries
+*.DS_Store
+*/build
+*/captures
+*bin/
+*gen/
+.idea/vcs.xml
+idea/
+idea
+.idea
+*.idea
