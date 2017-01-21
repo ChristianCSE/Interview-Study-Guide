@@ -104,132 +104,172 @@ These will be discussed:
   * Project Euler
   * HackerRank
   * Companies
-<br/><br/><br/>
+100. Companies
+  * Khan Academy
+  * Udacity
+  * Coursera
+  * Palantir
+  * Baidu
+  * Facebook
+  * Snap Inc.
+  * Jane Street
+  * DE Shaw & Co.
+  * Two Sigma
+  * Citadel
+  * imo
+  * Medium
+  * Knewton
+  * Hyperloop
+  * Artsy
+  * Amazon
+  * Instagram
+  * Pinterest
+  * Quora
+  * Twitch
+  * Heap Analytics
+  * Mesosphere
+  * ReadMe
+  * nervana
+  * Etsy
+  * Uber
+  * Docker
+  * Dropbox
+  * Duolingo
+  * TripleByte
+  * Spotify
+  * authorea
+  * Tinder
+  * CloserIQ
+  * Sigopt
+  * Lever
+  * Github
+  * Hudson Trading
+  * Google
+  * Cumulus
+  * thumbtack
+  * walkme
+  * fitbit
+  * Stripe
+  * Addepar
+  * Airbnb
+  * Asana
+  * Bloomberg
+  * Checkr
+  * Cloudera
+  * Course Hero
+  * Digital Ocean
+  * Gusto
+  * Hulu
+  * Linkedin
+  * Magic Leap
+  * MemSQL
+  * Microsoft
+  * Nerdwallet
+  * Oculus
+  * Pure Storage
+  * Reddit
+  * Slack
+  * Twitter
+  * Yelp
+  * Zendesk
+  * Zenefits
+  * Zocdoc
+  * Evernote
+  * Box
+  * Braintree
+  * Twilio
+  * Databricks
+  * Square
+  * Okta
+  * Credit Karma
+  * Sumo Logic
+  * Affirm
+  * Instacart
+  * Adobe
+  * weebly
+  * Oscar (healthcare startup)
+  * Twilio
+  * Mark 43
+  * Lending Home
+  * Tesla
+  * Wish
+  * Nextdoor
+  * Yammer
+  * Yext
+  * Riot Games
+  * Tilt
+  * Valve
+  * Shopify
+  * ClassDojo
 
-<H1>Bookmarks</H1>
-<DL>
-<p>
-    <DT>
-    <H3 PERSONAL_TOOLBAR_FOLDER="true">Bookmarks Bar</H3>
-        <DL>
-        <p>
-            <DT>
-            <A HREF="http://quiz.geeksforgeeks.org/java/" ADD_DATE="1466181163">Geeks Quiz</A>
-            <DT>
-            <a href = "https://www.interviewcake.com/"> Interview Cake </a>
-            <DT>
-            <A HREF="https://leetcode.com/problemset/algorithms/">Leetcode</A>
-            <DT>
-            <A HREF="https://www.interviewbit.com/dashboard/" >Interviewbit</A>
-            <DT>
-            <A HREF="https://community.topcoder.com/tc?module=ProblemArchive">TopCoder</A>
-            <DT>
-            <A HREF="https://www.pramp.com/login">
-            Pramp
-            </A>
-            <DT>
-            <A HREF="https://github.com/careercup/CtCI-6th-Edition">CTCI 6th ed</A>
-            <DT>
-            <A HREF="http://career.guru99.com/top-50-oops-interview-questions/" >
-            50 OOP Questions</A>
-            <DT>
-            <A HREF="https://www.clear.rice.edu/mech517/Books/oop3.pdf" > Object Oriented Programming Concepts </A>
-            <DT>
-            <A HREF="https://projecteuler.net/archives" >Project Euler</A>
-            <DT>
-            <A HREF="http://buttercola.blogspot.com/2015/11/airbnb-k-edit-distance.html">Airbnb: K Edit Distance</A>
-            <DT>
-            <A HREF="https://codefights.com/home" >CodeFights</A>
-            <DT>
-            <A HREF="https://www.codeeval.com/accounts/login/?name=/dashboard/" >CodeEval</A>
-            <DT>
-            <A HREF="https://www.codewars.com/users/sign_in" >Codewars</A>
-            <DT>
-            <A HREF="http://www.hiredintech.com/algorithm-design/the-algorithm-design-canvas">HiredIn Tech</A>
-            <DT>
-            <A HREF="http://www.spoj.com/problems/classical/sort=10">Sphere Online Judge</A>
-            <DT>
-            <A HREF="http://www.codeforces.com/problemset?order=BY_SOLVED_DESC">Codeforces</A>
-            <DT>
-            <A HREF="https://www.codechef.com/problems/school">CodeChef</A>
-            <DT>
-            <A HREF="https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3">UVA</A>
-            <DT>
-            <A HREF="https://www.gapjumpers.me/questions/sendgrid/qs-224/">Send Grid</A>
-            <DT>
-            <A HREF="https://careercup.com/" >CareerCup</A>
-            <DT>
-            <A HREF="https://app.embed.ly/login?after=%2Forganization%2Fpracticeproject" >Embedly</A>
-            <DT>
-            <A HREF="http://www.ideserve.co.in/#dynamicProgramming" >Dynamic Programming</A>
-            <DT>
-            <A HREF="https://people.cs.clemson.edu/~bcdean/dp_practice/" >Dynamic Programming Practice</A>
-            <DT>
-            <A HREF="https://www.quora.com/topic/Dynamic-Programming-DP" >Dynamic Prog. Guide </A>
-            <DT>
-            <A HREF="http://skillgun.com/" >skillgun</A>
-            <DT>
-            <A HREF="https://theinterviewhacker.com/" >The Interview Hacker</A>
-            <DT>
-            <A HREF="http://codercareer.blogspot.com/" >Coder career</A>
-            <DT>
-            <A HREF="https://www.facebook.com/careers/life/preparing-for-your-android-engineering-interview-at-facebook" >FB</A>
-            <DT>
-            <A HREF="https://codelab.interviewbit.com/" >CodeLab Interview Bit</A>
-            <DT>
-            <A HREF="http://www.codeabbey.com/">CodeAbbey</A>
-            <DT>
-            <A HREF="http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/" >Project Ideas</A>
-            <DT>
-            <A HREF="http://codeforces.com/blog/entry/46109">Codeforces</A>
-            <DT>
-            <A HREF="https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/">
-            Reddit Guide
-            </A>
-            <DT>
-            <A HREF="http://www.java67.com/2015/03/10-books-every-programmer-and-software-engineer-read.html" >Critical Java Readings</A>
-            <DT>
-            <A HREF="http://bigocheatsheet.com/" ADD_DATE="1471117812">
-            Big-O Cheat Sheet
-            </A>
-            <DT>
-            <a href = "http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/">
-            Interviewing Guide 
-            </a>
-            <dt>
-            <a href = "http://www.catonmat.net/blog/my-job-interview-at-google/">Interviewing with Google </a>
-            </dt>
-            <dt><a href= "https://www.quora.com/What-should-I-know-from-CLRS-3rd-edition-book-if-my-aim-is-to-get-into-Google/answer/Jimmy-Saade?srid=7myq">How should I prep? </a></dt>
-            <dt><a href= "http://www.cforcoding.com/2012/01/interview-programming-problems-done.html">Done Right </a></dt>
-            <dt><a href= "https://gist.github.com/jonschoning/6942474#lua">Free books </a></dt>
-            <dt><a href= "https://gist.github.com/arsane/e9de6ced332b62e309f2">Resources </a></dt>
-            <dt><a href= "https://discuss.leetcode.com/topic/31565/the-longest-absolute-path-in-file-system">File Q </a></dt>
-            <dt><a href= " "> </a></dt>
-            <dt><a href= " "> </a></dt>
-            </p>
-        </DL>
-</p>
-</DL>
-<h1> Libraries</h1>
-<dl><dt><h3>Java & Other Libraries</h3></dt></dl>
-<dl>
-<dt><a href= "http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/Map/Progs/">General DS: Emory </a></dt>
-<dt><a href= "https://www.cs.cmu.edu/~adamchik/15-121/lectures/"> More General DS: CMU</a></dt>
-<dt><a href= "http://hg.openjdk.java.net/jdk6/jdk6/jdk/file/c228a234a3f3/src/share/classes/java/util"> Java SDK </a></dt>
-<dt><a href= "http://www.docjar.com/html/api/java/util/ "> Java util</a></dt>
-<dt><a href= "http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/6-b14/java/lang/System.java"> Java Rep</a></dt>
-<dt><a href= "http://openjdk.java.net/"> Java Open JDK</a></dt>
-<dt><a href= "http://developer.classpath.org/doc/java/util/ "> Java Dos</a></dt>
-<dt><a href = "http://algs4.cs.princeton.edu/43mst/EdgeWeightedGraph.java.html "> Edge Weighted Graph</a></dt>
-<dt><a href= "http://algs4.cs.princeton.edu/13stacks/Stack.java.html">Stack </a></dt>
-<dt><a href= "https://secweb.cs.odu.edu/~zeil/cs330/live/website/Slides/libraries/?C=N;O=A"> C++</a></dt>
-<dt><a href= " "> </a></dt>
-<dt><a href= " "> </a></dt>
-<dt><a href= " "> </a></dt>
-<dt><a href= " "> </a></dt>
-<dt><a href= " "> </a></dt>
-<dt><a href= " "> </a></dt>
-</dl>
+# Bookmarks
+  
+###Library of Questions
+  * [Geeks 4 Geeks](http://quiz.geeksforgeeks.org)
+  * [Interview Cake](https://www.interviewcake.com/)
+  * [Leetcode](https://leetcode.com/problemset/algorithms/)
+  * [interview.io beta](https://interviewing.io/)
+  * [interviewbit](https://www.interviewbit.com/dashboard)
+  * [Pramp](https://www.pramp.com/login)
+  * [CTCI 6th ed](https://github.com/careercup/CtCI-6th-Edition)
+  * [TopCoder](https://community.topcoder.com/tc?module=ProblemArchive)
+  * [Project Euler](https://projecteuler.net/archives)
+  * [CodeFights](https://codefights.com/home)
+  * [Codewars](https://www.codewars.com/users/sign_in)
+  * [Codeforces](http://www.codeforces.com/problemset?order=BY_SOLVED_DESC)
+  * [CodeChef](https://www.codechef.com/problems/school)
+  * [UVA](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3)
+  * [Embedly](https://app.embed.ly/login?after=%2Forganization%2Fpracticeproject)
+  * [Sphere Online Judge](http://www.spoj.com/problems/classical/sort=10)
+  * [CodeEval](https://www.codeeval.com/accounts/login/?name=/dashboard/)
+  * [HiredIn Tech](http://www.hiredintech.com/algorithm-design/the-algorithm-design-canvas)
+  * [CareerCup](https://careercup.com/)
+  * [Send Grid](https://www.gapjumpers.me/questions/sendgrid/qs-224)
+  * [Books](https://gist.github.com/jonschoning/6942474#lua)
+  * [Resource](https://gist.github.com/arsane/e9de6ced332b62e309f2)
+  * [File Q](https://discuss.leetcode.com/topic/31565/the-longest-absolute-path-in-file-system)
+  * [TechPuzzl](https://techpuzzl.wordpress.com/)
+  * [Critical Java Readings](http://www.java67.com/2015/03/10-books-every-programmer-and-software-engineer-read.html)
+  * [Codeforces](http://codeforces.com/blog/entry/46109)
+  * [Project Ideas](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list)
+  * [CodeAbbey](http://www.codeabbey.com/)
+  * [CodeLab Interview Bit](https://codelab.interviewbit.com/)
+  * [The Interview Hacker](https://theinterviewhacker.com/)
+  * [skillgun](http://skillgun.com/)
+  
+  ### Questions
+  * [Airbnb K Edit Distance](http://buttercola.blogspot.com/2015/11/airbnb-k-edit-distance.html)
+  
+  ### Topics
+  * [OOP Principles](https://www.clear.rice.edu/mech517/Books/oop3.pdf)
+  * [50 OOP Questions](http://career.guru99.com/top-50-oops-interview-questions/)
+  * [Big-O Cheat Sheet](http://bigocheatsheet.com/")   
+  
+  ### Specific Question Types
+  * [Dynamic Prog](http://www.ideserve.co.in/#dynamicProgramming)
+  * [Dynamic Prog. Practice](https://people.cs.clemson.edu/~bcdean/dp_practice/)
+  * [Dynamic Prog. Guide](https://www.quora.com/topic/Dynamic-Programming-DP)
+  
+  ### Prep Guides
+  * [Guide](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+  * [Google Guide](http://www.catonmat.net/blog/my-job-interview-at-google/)
+  * [How should I prep?](https://www.quora.com/What-should-I-know-from-CLRS-3rd-edition-book-if-my-aim-is-to-get-into-Google/answer/Jimmy-Saade?srid=7myq)
+  * [Done Right!](http://www.cforcoding.com/2012/01/interview-programming-problems-done.html)
+  * [Reddit Guide](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews)
+  * [FB](https://www.facebook.com/careers/life/preparing-for-your-android-engineering-interview-at-facebook)
+  
+  ### Extras
 
-</dl>
+# Libraries
+  
+## Java 
 
+  * [General DS](http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/Map/Progs/)
+  * [More General DS](https://www.cs.cmu.edu/~adamchik/15-121/lectures/)
+  * [Java SDK](http://hg.openjdk.java.net/jdk6/jdk6/jdk/file/c228a234a3f3/src/share/classes/java/util)
+  * [Java util](http://www.docjar.com/html/api/java/util/)
+  * [Java Rep](http://grepcode.com/file/repository.grepcode.com/java/root/jdk/openjdk/6-b14/java/lang/System.java)
+  * [Java Open SDK](http://openjdk.java.net/)
+  * [Java Docs](http://algs4.cs.princeton.edu/43mst/EdgeWeightedGraph.java.html)
+  * [Stack](http://algs4.cs.princeton.edu/13stacks/Stack.java.html)
+  * [C++](https://secweb.cs.odu.edu/~zeil/cs330/live/website/Slides/libraries/?C=N;O=A)

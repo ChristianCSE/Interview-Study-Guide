@@ -5,15 +5,14 @@ class autocomp{
 
  public static void main(String[] args){
   Trie t = new Trie(); 
-  String[] dict = new String[]{"apple", "apples", "app", "aplets", "applez", "apz"};
+  String[] dict = new String[]{"apple", "apples", "app", "aplets", "applez", "apz", "apds", "appppp", "aples"};
   for(String word:dict){
    t.insertWord(word);
   }
   t.autoplete("app");
+  t.autoplete("zipper");
   }
  }
-
-
 class Trie{
  Node root; 
  public Trie(){
@@ -34,27 +33,27 @@ class Trie{
  }
 
  public List<String> autoplete(String candidate){
-  //go to candidates stopping point! which is the end of this word
-  //return null if invalid 
   Deque<Node> queue = new ArrayDeque<>();
   Deque<String> prefix = new ArrayDeque<>();
   Node pointer = root;
   for(String letter : candidate.split("")){
    pointer = pointer.children.get(letter);
+   if(pointer == null){
+    System.out.println("from our given, we can't make autocomplete " + candidate);
+    return null;
+   }
   }
+  System.out.println("word=" + candidate);
   queue.push(pointer);
+  prefix.push(candidate);
   List<String> recomend = new ArrayList<>();
-  
-  // if(pointer.endOfWord){
-  //  recomend.add(candidate);
-  //  System.out.println("yep");
-  // }
+  System.out.println("here");
   String currentLetter;
   Node curr; 
   String pre = candidate;
   while(!queue.isEmpty()){
-   curr = queue.poll();//(p)--> (l) Node
-   pre = prefix.poll(); //String Word
+   curr = queue.poll();
+   pre = prefix.poll(); 
    if(curr.endOfWord){
     recomend.add(pre);
    }
@@ -64,6 +63,9 @@ class Trie{
     prefix.push(pre+indivLetter.getKey());
     queue.push((Node)indivLetter.getValue());
    }
+  }
+  for(String word: recomend){
+   System.out.println(word);
   }
   return recomend;
  }

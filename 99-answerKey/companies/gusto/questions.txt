@@ -1,0 +1,48 @@
+
+
+April 21
+Implement a Linked List with unique elements
+Array of loans, return an array of loans representing loands 
+cleared from redundant amounts.
+Input: 
+A owes B 100
+B owes A 100
+Output: []
+
+Input: 
+A owes B 100
+B owes C 100
+C owes A 100
+Output: []
+
+Implement a simple ft in app. Add two new columns to the table in react
+view and update backend method to feed data for the columns.
+
+Dec 25
+DS (arrays, trees)
+
+Dec 22
+Split-wise function
+
+Oct 11
+Implement reduce() [ruby feature]
+implement a way to divide deposits across accounts 
+
+Feb 13
+Implement a simple payroll function
+
+Sep 3
+DFS with a twist?
+
+Jun 18
+Implement a js method for deep diff b/w 2 objects
+
+Dec 18
+BFS & BST
+
+
+Oct 27 
+Bit manipulation:Unsigned value, given an unsigned value
+implement two's complement. 
+Float an element in CSS
+
