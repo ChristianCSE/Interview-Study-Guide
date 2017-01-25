@@ -201,6 +201,25 @@ These will be discussed:
   * Valve
   * Shopify
   * ClassDojo
+  * Domo
+  * SendGrid
+  * Mixpanel
+  * Qualtrics
+  * AppDynamics
+  * LiveRamp
+  * Blend Labs
+  * Goldman Sachs
+  * Zillow
+  * Mozilla
+  * Zynga
+  * Groupon
+  * Capital One
+  * Macy's.com
+  * Jump Trading 
+  * Qualcomm
+  * Ancestory
+  * Accenture
+  
 
 # Bookmarks
   
