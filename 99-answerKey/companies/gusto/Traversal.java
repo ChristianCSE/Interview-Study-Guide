@@ -1,3 +1,4 @@
+import java.util.*;
 class Traversal {
 
 
@@ -8,7 +9,8 @@ class Traversal {
    Node reRight = tree.insert(tree.root, new Node(12), false);
    refLeft = tree.insert(refLeft, new Node(13), true);
    reRight = tree.insert(reRight, new Node(100), false);
-   tree.preorder(tree.root);
+   tree.rePostorder(tree.root);
+
   }
 }
 
@@ -22,26 +24,39 @@ class Tree {
   public Node insert(Node ref, Node here, boolean dir){
    return dir ? ref.insertLeft(here) : ref.insertRight(here); 
   }
-  public void preorder(Node ref){
+  public void rePreorder(Node ref){
    if(ref != null){
     System.out.println(ref.data);
-    preorder(ref.left);
-    preorder(ref.right);
+    rePreorder(ref.left);
+    rePreorder(ref.right);
     }
    }
-  public void inorder(Node ref){
+  public void reInorder(Node ref){
    if(ref != null){
-    inorder(ref.left);
+    reInorder(ref.left);
     System.out.println(ref.data);
-    inorder(ref.right);
+    reInorder(ref.right);
    }
    }
 
-  public void postorder(Node ref){
+  public void rePostorder(Node ref){
    if(ref != null){
-    postorder(ref.left);
-    postorder(ref.right);
+    rePostorder(ref.left);
+    rePostorder(ref.right);
     System.out.println(ref.data);
+   }
+  }
+
+  public void nonRePostOrder(Node ref){
+   Deque<Node> postOrder = new ArrayDeque<>(); 
+   Node ptr = ref;
+   while(ptr != null){
+    postOrder.push(ptr);
+    ptr = ref.left;
+   }//leftMost is now in here 
+   
+   while(!postOrder.isEmpty()){
+    
    }
   }
 
