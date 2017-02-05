@@ -159,6 +159,7 @@ These will be discussed:
   * Course Hero
   * Digital Ocean
   * Gusto
+  * Pandora
   * Hulu
   * Linkedin
   * Magic Leap
@@ -196,6 +197,7 @@ These will be discussed:
   * Nextdoor
   * Yammer
   * Yext
+  * Oscar Health
   * Riot Games
   * Tilt
   * Valve
@@ -204,6 +206,9 @@ These will be discussed:
   * Domo
   * SendGrid
   * Mixpanel
+  * Workday
+  * Quantcast
+  * MailChimp
   * Qualtrics
   * AppDynamics
   * LiveRamp
@@ -219,6 +224,7 @@ These will be discussed:
   * Qualcomm
   * Ancestory
   * Accenture
+  
   
 
 # Bookmarks
