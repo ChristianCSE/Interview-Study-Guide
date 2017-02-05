@@ -208,6 +208,11 @@ These will be discussed:
   * Mixpanel
   * Workday
   * Quantcast
+  * ThousandEye
+  * Opendoor
+  * rubrik
+  * mark43
+  * okta
   * MailChimp
   * Qualtrics
   * AppDynamics
@@ -224,6 +229,8 @@ These will be discussed:
   * Qualcomm
   * Ancestory
   * Accenture
+  * SpaceX
+  * OpenAI
   
   
 
