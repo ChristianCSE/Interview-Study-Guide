@@ -1,5 +1,5 @@
 
-class SolutionOne{
+class MultithreadingIntro{
 
 
  public static void main(String[] args){
