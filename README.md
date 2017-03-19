@@ -1,4 +1,4 @@
-#Study Guide Topics
+# Study Guide Topics
 
 
 These will be discussed:
@@ -231,6 +231,8 @@ These will be discussed:
   * Accenture
   * SpaceX
   * OpenAI
+  * Jupyter
+  * Kaggle
   
   
 

@@ -11,7 +11,7 @@ public class Solution {
  public Queue<Integer> maxHeap;
  public int numOfElements;
  
- public testing() {
+ public Solution() {
   minHeap = new PriorityQueue<Integer>();
   maxHeap = new PriorityQueue<Integer>(10, new MaxHeapComparator()); 
   numOfElements = 0;
@@ -26,17 +26,18 @@ public class Solution {
    }
 
    else if (maxHeap.peek() > minHeap.peek()) {
-    System.out.println("===="+minHeap);
-    System.out.println("===="+maxHeap);
+    // System.out.println("===="+minHeap);
+    // System.out.println("===="+maxHeap);
     Integer maxHeapRoot = maxHeap.poll();
     Integer minHeapRoot = minHeap.poll();
     maxHeap.add(minHeapRoot);
     minHeap.add(maxHeapRoot);
    } 
   } else {
+   System.out.println("max=>"+maxHeap.peek());
    minHeap.add(maxHeap.poll());
-   System.out.println("min=>"+minHeap);
-   System.out.println("max=>"+maxHeap);
+   //System.out.println("min=>"+minHeap);
+   System.out.println("max=>"+maxHeap.peek());
   }
   numOfElements++;
  }
@@ -56,22 +57,22 @@ public class Solution {
  }
  
  public static void main(String[] args) {
-  testing streamMedian = new testing();
+  Solution streamMedian = new Solution();
   
-  streamMedian.addNumberToStream(10);
+  streamMedian.addNumberToStream(5);
   System.out.println(streamMedian.getMedian()); // should be 1
   
-  streamMedian.addNumberToStream(20);
-  streamMedian.addNumberToStream(8);
+  streamMedian.addNumberToStream(25);
+  streamMedian.addNumberToStream(1);
 
-  System.out.println(streamMedian.getMedian()); // should be X
-  streamMedian.addNumberToStream(12);
-  streamMedian.addNumberToStream(2);
-  System.out.println(streamMedian.getMedian()); // should be 5
+  System.out.println("1 [5] 25  "+streamMedian.getMedian()); // should be X
+  // //streamMedian.addNumberToStream(12);
+  // streamMedian.addNumberToStream(2);
+  // System.out.println(streamMedian.getMedian()); // should be 5
   
-  streamMedian.addNumberToStream(3);
-  streamMedian.addNumberToStream(8);
-  streamMedian.addNumberToStream(9);
-  System.out.println(streamMedian.getMedian()); // should be 6.5
+  // streamMedian.addNumberToStream(3);
+  // streamMedian.addNumberToStream(8);
+  // streamMedian.addNumberToStream(9);
+  // System.out.println(streamMedian.getMedian()); // should be 6.5
  }
 }
