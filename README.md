@@ -238,7 +238,7 @@ These will be discussed:
 
 # Bookmarks
   
-###Library of Questions
+### Library of Questions
   * [Geeks 4 Geeks](http://quiz.geeksforgeeks.org)
   * [Interview Cake](https://www.interviewcake.com/)
   * [Leetcode](https://leetcode.com/problemset/algorithms/)
@@ -291,12 +291,10 @@ These will be discussed:
   * [Done Right!](http://www.cforcoding.com/2012/01/interview-programming-problems-done.html)
   * [Reddit Guide](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews)
   * [FB](https://www.facebook.com/careers/life/preparing-for-your-android-engineering-interview-at-facebook)
-  
-  ### Extras
 
 # Libraries
   
-## Java 
+> Java 
 
   * [General DS](http://www.mathcs.emory.edu/~cheung/Courses/323/Syllabus/Map/Progs/)
   * [More General DS](https://www.cs.cmu.edu/~adamchik/15-121/lectures/)
