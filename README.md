@@ -127,6 +127,7 @@ These will be discussed:
   * Quora
   * Twitch
   * Heap Analytics
+  * Clever
   * Mesosphere
   * ReadMe
   * nervana
@@ -142,6 +143,7 @@ These will be discussed:
   * CloserIQ
   * Sigopt
   * Lever
+  * Periscope
   * Github
   * Hudson Trading
   * Google
@@ -193,6 +195,7 @@ These will be discussed:
   * Twilio
   * Mark 43
   * Lending Home
+  * Bolt
   * Tesla
   * Wish
   * Nextdoor
@@ -211,7 +214,7 @@ These will be discussed:
   * Quantcast
   * ThousandEye
   * Opendoor
-  * rubrik
+  * rubrikf
   * mark43
   * okta
   * MailChimp
@@ -227,6 +230,7 @@ These will be discussed:
   * Capital One
   * Macy's.com
   * Jump Trading 
+  * Intercom
   * Qualcomm
   * Postmates
   * Ancestory
