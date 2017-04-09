@@ -156,6 +156,7 @@ These will be discussed:
   * Bloomberg
   * Checkr
   * Cloudera
+  * Flexport
   * Course Hero
   * Digital Ocean
   * Gusto
@@ -227,12 +228,16 @@ These will be discussed:
   * Macy's.com
   * Jump Trading 
   * Qualcomm
+  * Postmates
   * Ancestory
   * Accenture
   * SpaceX
   * OpenAI
   * Jupyter
   * Kaggle
+  * GraphIQ
+  * Optimizely
+  * Iterable
   
   
 
