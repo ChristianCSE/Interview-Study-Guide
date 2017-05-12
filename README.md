@@ -58,6 +58,8 @@ These will be discussed:
   * Simplex (Network Flow)
   * Blossom algorithm (Graph)
   * Steinhaus Johnson Trotter (Permutations)
+  * Sieve of Eratosthenes
+  * Dining philosophers problem
 4. Common Interview Problems
   * Palindromes
   * Most/Least common character
