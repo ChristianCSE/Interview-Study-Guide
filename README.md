@@ -164,6 +164,11 @@ These will be discussed:
   * [Reddit Guide](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews)
   * [FB](https://www.facebook.com/careers/life/preparing-for-your-android-engineering-interview-at-facebook)
 
+# Other Useful Tools 
+  * [Quick System Design Cheat-Sheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+  * [Architecture](https://lethain.com/introduction-to-architecting-systems-for-scale/)
+  * [General Scalability](http://highscalability.com/ )
+
 # Libraries
   
 > Java 
@@ -177,3 +182,8 @@ These will be discussed:
   * [Java Docs](http://algs4.cs.princeton.edu/43mst/EdgeWeightedGraph.java.html)
   * [Stack](http://algs4.cs.princeton.edu/13stacks/Stack.java.html)
   * [C++](https://secweb.cs.odu.edu/~zeil/cs330/live/website/Slides/libraries/?C=N;O=A)
+
+
+# Videos (on SWE)
+  
+  * [Hiring](https://softwareengineeringdaily.com/2017/02/08/engineering-management-with-mike-borozdin/)
