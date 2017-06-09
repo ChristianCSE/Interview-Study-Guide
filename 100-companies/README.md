@@ -1,11 +1,7 @@
 100. Companies
-  * Khan Academy
   * Udacity
   * Coursera
-  * Palantir
   * Baidu
-  * Facebook
-  * Snap Inc.
   * Jane Street
   * DE Shaw & Co.
   * Two Sigma
@@ -17,9 +13,6 @@
   * Artsy
   * Amazon
   * Instagram
-  * Pinterest
-  * Quora
-  * Twitch
   * Heap Analytics
   * Clever
   * Mesosphere
@@ -33,7 +26,6 @@
   * TripleByte
   * Spotify
   * authorea
-  * Tinder
   * CloserIQ
   * Sigopt
   * Lever
@@ -45,10 +37,7 @@
   * thumbtack
   * walkme
   * fitbit
-  * Stripe
   * Addepar
-  * Airbnb
-  * Asana
   * Bloomberg
   * Checkr
   * Cloudera
@@ -60,13 +49,11 @@
   * Hulu
   * Linkedin
   * Magic Leap
-  * MemSQL
   * Microsoft
   * Nerdwallet
   * Oculus
   * Pure Storage
   * Reddit
-  * Slack
   * Twitter
   * Yelp
   * Zendesk
@@ -92,12 +79,10 @@
   * Bolt
   * Tesla
   * Wish
-  * Nextdoor
   * Yammer
   * Yext
   * Oscar Health
   * Riot Games
-  * Tilt
   * Valve
   * Shopify
   * ClassDojo
@@ -134,6 +119,21 @@
   * Jupyter
   * Kaggle
   * GraphIQ
+  * Facebook
   * Optimizely
   * Iterable
-  
+
+101.
+  * Palantir
+  * Snap Inc.
+  * Nextdoor
+  * Pinterest
+  * Quora
+  * Twitch
+  * Tinder
+  * MemSQL
+  * Stripe
+  * Airbnb
+  * Asana
+  * Khan Academy
+  * Slack

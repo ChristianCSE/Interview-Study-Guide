@@ -1,9 +1,6 @@
 
 public class maxingOutBits {
 
-
-
-
   static public void decompose(double numb) {
     System.out.println("in here=> " +  numb);
   }
