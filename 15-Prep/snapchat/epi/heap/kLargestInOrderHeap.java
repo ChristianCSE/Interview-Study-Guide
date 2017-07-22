@@ -39,7 +39,7 @@ class kLargestInOrderHeap {
   public static void main(String[] args) {
     List<Integer> maxHeapArray = Arrays.asList(new Integer[]{40, 38, 39, 26, 28, 32, 35, 25, 23});
     List<Integer> kMax = kLargest(maxHeapArray, 7);
-    System.out.println("in order => "+ kMax);
+    System.out.println("in order => "+ kMax); 
   }
 }
 
