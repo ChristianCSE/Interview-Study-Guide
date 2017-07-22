@@ -4,10 +4,14 @@ class Solution {
 
   public static List<List<Integer>> verticalOrder(TreeNode root) {
 
+
+    List<List<Integer>> verticalTree = new ArrayList<>();
+    if(root == null) return verticalTree;
+
     //care about root position => leftmost node (overall) & rightmost node (overall)
     int[] range = new int[]{0,0};
     columnRange(root, range, 0);
-    List<List<Integer>> verticalTree = new ArrayList<>();
+    
 
     for(int i = range[0]; i <= range[1]; i++) {
       verticalTree.add(new ArrayList<Integer>());
@@ -75,6 +79,7 @@ class Solution {
   }
 
   public static TreeNode makeSpecificTree(int[] numbs) {
+    //for(int i = 0; )
     return null;
   }
 
