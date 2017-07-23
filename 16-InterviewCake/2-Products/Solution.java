@@ -45,11 +45,31 @@ class Solution {
   }
 
 
+
+
+  public static int[] prodArr(int[] arr) {
+    int len = arr.length;
+    int[] prodArray = new int[len];
+    int behindProd = 1;
+    for(int i = 0; i < len; i++) {
+      prodArray[i] = behindProd;
+      behindProd *= arr[i];
+    }
+    int aheadProd = 1;
+    for(int i = len-1; i >= 0; i--) {
+      prodArray[i] *= aheadProd;
+      aheadProd *= arr[i];
+    }
+
+    return prodArray;
+  }
+
+
   public static void main(String[] args) {
     Integer o = 10; 
     int p = 100;
     System.out.println(o*p);
-    int[] container = productArrays(new int[]{1, 2, 3, 4});
+    int[] container = prodArr(new int[]{1, 2, 3, 4});
     System.out.println(Arrays.toString(container));
   }
 }
