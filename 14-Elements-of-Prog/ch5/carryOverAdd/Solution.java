@@ -40,5 +40,6 @@ class Solution {
       list.add(i);
     }
     addOne(list);
+    System.out.println(true ^ false);
   }
 }
