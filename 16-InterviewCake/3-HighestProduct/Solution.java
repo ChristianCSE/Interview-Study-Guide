@@ -7,8 +7,13 @@ class Solution {
   public static int highestProduct(int[] numbs, int k) {
     
     PriorityQueue<Integer> minHeap = new PriorityQueue<Integer>();
-
+    PriorityQueue<Integer> negativeMinHeap = new PriorityQueue<Integer>();
+    int max = Integer.MIN_VALUE;
     for(int i = 0; i < k; i++) {
+      if(numbs[i] > max) {
+        max = numbs[i];
+      }
+
       minHeap.add(numbs[i]);
     }
 
@@ -19,6 +24,7 @@ class Solution {
         minHeap.poll();
         minHeap.add(numb);
       }
+
     }
     int prod = 1;
     for(Integer numbr : minHeap) {

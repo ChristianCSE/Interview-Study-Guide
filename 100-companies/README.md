@@ -13,12 +13,14 @@
   * Artsy
   * Amazon
   * Instagram
+  * Lob
   * Heap Analytics
   * Clever
   * Mesosphere
   * ReadMe
   * nervana
   * Etsy
+  * Remind
   * Uber
   * Docker
   * Dropbox
@@ -72,16 +74,16 @@
   * Instacart
   * Adobe
   * weebly
-  * Oscar (healthcare startup)
+  * Oscar Health (healthcare startup)
   * Twilio
   * Mark 43
   * Lending Home
   * Bolt
   * Tesla
   * Wish
+  * Addepar
   * Yammer
   * Yext
-  * Oscar Health
   * Riot Games
   * Valve
   * Shopify
@@ -93,7 +95,7 @@
   * Quantcast
   * ThousandEye
   * Opendoor
-  * rubrikf
+  * rubrik
   * mark43
   * okta
   * MailChimp
@@ -111,6 +113,7 @@
   * Jump Trading 
   * Intercom
   * Qualcomm
+  * DocuSign
   * Postmates
   * Ancestory
   * Accenture
@@ -125,6 +128,8 @@
 
 101.
   * Palantir
+  * Quip
+  * Houzz
   * Snap Inc.
   * Nextdoor
   * Pinterest
@@ -137,3 +142,4 @@
   * Asana
   * Khan Academy
   * Slack
+  
