@@ -1,16 +1,12 @@
 
-
-
-
 class Solution {
-
 
   /*
   EASY
   [7]->[1]->[6]->null | 617
   [5]->[9]->[2]->null | 295 = 912
   return: [2]->[1]->[9]-> null
-  Assuming same length (else have to iterate through both once to know length)
+  DO NOT ASSUME SAME LENGTHS
    */
   public static Node getBackwardsSum(Node listOne, Node listTwo) {
     if(listOne == null) return null;
@@ -20,12 +16,15 @@ class Solution {
     listOne = listOne.next;
     listTwo = listTwo.next;
     Node ptr = summed;
-    while(listOne != null) {
-      totalSum = listOne.data + listTwo.data + carryOver;
+
+    while(listOne != null || listTwo != null) {
+      int oneNumber = (listOne==null) ? 0 : listOne.data;
+      int twoNumber = (listTwo==null) ? 0 : listTwo.data;
+      totalSum = oneNumber + twoNumber + carryOver;
       ptr.next = new Node(totalSum%10);
       carryOver = totalSum/10;
-      listOne = listOne.next;
-      listTwo = listTwo.next;
+      listOne = (listOne==null) ? null:listOne.next;
+      listTwo = (listTwo== null) ? null:listTwo.next;
       ptr = ptr.next; 
     }
     if(carryOver > 0) {
@@ -34,41 +33,31 @@ class Solution {
     return summed;
   }
 
-  /*
-  MEDIUM
-  [6]->[1]->[7]->null
-  [2]->[9]->[5]->null
-  return: [9]->[1]->[2]->null
-   */
-  public static Node getForwardSum(Node listOne, Node listTwo) {
-
-    return null;
-  }
-
-
-  public static void main(String[] args) {
+  public static void doBackwardSum(){
     Node listOne = new Node(7);
     Node ptr = listOne;
     for(int i : new int[]{1, 6}) {
       ptr.next = new Node(i);
       ptr = ptr.next;
     }
-
+    ptr = listOne;
     Node listTwo = new Node(5);
     ptr = listTwo;
-    for(int i : new int[]{9, 2}) {
+    for(int i : new int[]{1, 9}) {
       ptr.next = new Node(i);
       ptr = ptr.next;
     }
 
     ptr = getBackwardsSum(listOne, listTwo);
+    System.out.println("SUMMED UP ANSWER: ");
     while(ptr!=null) {
       System.out.println(ptr.data);
       ptr = ptr.next;
     }
+  }
 
-
-
+  public static void main(String[] args) {
+    doBackwardSum();
   }
 }
 
