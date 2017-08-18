@@ -40,12 +40,20 @@ class Testing {
 
 
   public static List<String> topologicalSort(int[][] adjMatrix){
+    //get the Vertex without successors (it's column is empty of 1's)
+    //insert it at the end of our list! 
+    //delete it from existence (as a row, col, vertex)
+    
+
 
     return null;
   }
 
-  public static List<String> minSpanningTree(int[][] adjMatrix){
 
+
+
+  public static List<String> minSpanningTree(int[][] adjMatrix){
+    
     return null;
   }
 
