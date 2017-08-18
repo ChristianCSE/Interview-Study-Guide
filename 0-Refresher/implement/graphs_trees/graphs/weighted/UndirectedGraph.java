@@ -9,6 +9,7 @@ class UndirectedGraph {
     this.MAX_VERTICES = MAX_VERTICES;
     vertextList = new Vertex[MAX_VERTICES];
     numbVertices = 0;
+    adjMatrix = new int[MAX_VERTICES][MAX_VERTICES];
     for(int row = 0; row < MAX_VERTICES; row++){
       for(int col = 0; col < MAX_VERTICES; col++){
           //init all as disconnected 
@@ -20,7 +21,7 @@ class UndirectedGraph {
   public void addVertex(String label) {
     vertextList[numbVertices++] = new Vertex(label);
   }
-  public void addVertex(int src, int dest, int weight, boolean undirected) {
+  public void addEdge(int src, int dest, int weight, boolean undirected) {
     adjMatrix[src][dest] = weight;
     if(undirected) adjMatrix[dest][src] = weight;
   }
@@ -69,7 +70,7 @@ class UndirectedGraph {
     //we should have the entire path in our mst deque 
     while(!mst.isEmpty()) {
       Edge visting = mst.poll();
-      System.out.println(vertextList[visting.sourceVertex] + "  =>  " + vertextList[visting.destinationVertex]);
+      System.out.println(vertextList[visting.sourceVertex].label + "  =>  " + vertextList[visting.destinationVertex].label);
     }
     
 
