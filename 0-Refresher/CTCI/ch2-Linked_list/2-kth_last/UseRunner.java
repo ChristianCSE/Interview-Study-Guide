@@ -4,6 +4,9 @@
 class UseRunner {
 
 
+  /*
+  It's going to end kth before the list ends!!!
+   */
   public static Node getKthNode(Node head, int kthToLast) {
     Node ptr = head;
     Node ptr2 = head;

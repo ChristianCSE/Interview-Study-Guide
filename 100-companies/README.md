@@ -44,6 +44,7 @@
   * Checkr
   * Cloudera
   * Flexport
+  * Netflix
   * Course Hero
   * Digital Ocean
   * Gusto
@@ -142,4 +143,5 @@
   * Asana
   * Khan Academy
   * Slack
+  * Lyft
   

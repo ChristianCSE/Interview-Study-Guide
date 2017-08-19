@@ -1,8 +1,8 @@
 /*
 POINTS TO TAKE FROM PROBLEM:
-->
-->
-->
+-> Partial Sum Data Structure: Maintain Sum So Far
+-> Recursion: Conserve references to previous Nodes
+-> Head Insertion: Quick update to head of linked list
  */
 
 
