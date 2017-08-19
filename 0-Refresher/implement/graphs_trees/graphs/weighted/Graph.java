@@ -106,22 +106,26 @@ class Graph {
   3. Adjust our stored path with the new neighbors (edges)
   4. Repeat from 1
   */
-  public void dijkPath(int startingVertex, int endingVertex) {
+  public DistancePairs[] dijkstra(int startingVertex, int endingVertex) {
     List<Integer> visted = new ArrayList<>();
     visted.add(startingVertex);
     DistancePairs[] shortestPath = new DistancePairs[numbVertices];
     initPaths(startingVertex, shortestPath);
+    for(DistancePairs pair : shortestPath) {
+      System.out.println(" " + pair.parentVertex + "    " + pair.distance);
+    }
     while(visted.size() < numbVertices) {
       int currVertex = getMin(shortestPath, visted);//get the vertex with the min(sumPath) not visted
       int startToCurr = shortestPath[currVertex].distance;
       if(startToCurr == INFINITY) {
         System.out.println("UNCONNECTED GRAPH!!!");
-        return;
+        return null;
       } else {
         visted.add(currVertex);
         adjustPath(currVertex, startToCurr, visted, shortestPath);
       }
     }
+    return shortestPath;
   }
 
   public void initPaths(int startingVertex, DistancePairs[] shortestPath) {
@@ -142,7 +146,7 @@ class Graph {
         minVertexIndex = vertexTo;
       }
     }
-    return 0;
+    return minVertexIndex;
   }
 
   public void adjustPath(int currVertex, int startToCurr, List<Integer> visted, DistancePairs[] shortestPath){
@@ -159,7 +163,6 @@ class Graph {
           //overwrite old path 
           shortestPath[vertexTo] = new DistancePairs(currVertex, startToNextVertex);
         }
-
       }
     }
   }
