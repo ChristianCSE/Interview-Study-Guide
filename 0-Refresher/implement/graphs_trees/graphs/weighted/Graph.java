@@ -115,7 +115,7 @@ class Graph {
       System.out.println(" " + pair.parentVertex + "    " + pair.distance);
     }
     while(visted.size() < numbVertices) {
-      int currVertex = getMin(shortestPath, visted);//get the vertex with the min(sumPath) not visted
+      int currVertex = getMin(shortestPath, visted);
       int startToCurr = shortestPath[currVertex].distance;
       if(startToCurr == INFINITY) {
         System.out.println("UNCONNECTED GRAPH!!!");
@@ -135,6 +135,7 @@ class Graph {
     }
   }
 
+  //Could be done with a Queue
   public int getMin(DistancePairs[] shortestPath, List<Integer> visted) {
     int minDistance = Integer.MAX_VALUE;
     int minVertexIndex = 0;

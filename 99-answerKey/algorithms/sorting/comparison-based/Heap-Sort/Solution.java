@@ -34,7 +34,7 @@ class Solution {
   if(leftChild<len && arr[leftChild]> arr[newParent]){
    newParent=leftChild;//do LC and Parent follow maxHeap rules?
   }
-  if(rightChidl<len&&arr[rightChidl]>arr[newParent]){
+  if(rightChidl<len && arr[rightChidl]>arr[newParent]){
    newParent=rightChidl;//is parent still the greatest of the 3?
   }
   if(newParent!=parent){

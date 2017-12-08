@@ -9,19 +9,25 @@
   * imo
   * Medium
   * Knewton
+  * Mulesoft
   * Hyperloop
+  * Wealthfront
   * Artsy
   * Amazon
   * Instagram
   * Lob
+  * Squarespace
   * Heap Analytics
   * Clever
   * Mesosphere
+  * Delphix
+  * Codefights
   * ReadMe
   * nervana
   * Etsy
   * Remind
   * Uber
+  * Wepay
   * Docker
   * Dropbox
   * Duolingo
@@ -96,6 +102,7 @@
   * Quantcast
   * ThousandEye
   * Opendoor
+  * Textio
   * rubrik
   * mark43
   * okta
@@ -107,6 +114,7 @@
   * Goldman Sachs
   * Zillow
   * Mozilla
+  * Peloton
   * Zynga
   * Groupon
   * Capital One
