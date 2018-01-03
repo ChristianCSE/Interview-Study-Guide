@@ -2,28 +2,34 @@
   * Udacity
   * Coursera
   * Baidu
+  * Youtube
   * Jane Street
   * DE Shaw & Co.
   * Two Sigma
   * Citadel
   * imo
+  * Whitepages
   * Medium
   * Knewton
   * Mulesoft
   * Hyperloop
   * Wealthfront
+  * Rally Health
   * Artsy
   * Amazon
   * Instagram
   * Lob
   * Squarespace
   * Heap Analytics
+  * Sift Science
   * Clever
   * Mesosphere
   * Delphix
   * Codefights
   * ReadMe
   * nervana
+  * Illumio
+  * Tubular Labs
   * Etsy
   * Remind
   * Uber
@@ -68,6 +74,7 @@
   * Zendesk
   * Zenefits
   * Zocdoc
+  * LendUp
   * Evernote
   * Box
   * Braintree
@@ -88,13 +95,13 @@
   * Bolt
   * Tesla
   * Wish
-  * Addepar
   * Yammer
   * Yext
   * Riot Games
   * Valve
   * Shopify
   * ClassDojo
+  * Sentry
   * Domo
   * SendGrid
   * Mixpanel
@@ -134,22 +141,23 @@
   * Facebook
   * Optimizely
   * Iterable
+  * Quip
+  * Khan Academy
+  * Asana
+  * Twitch 
 
 101.
+  * Airbnb
   * Palantir
-  * Quip
   * Houzz
   * Snap Inc.
   * Nextdoor
   * Pinterest
   * Quora
-  * Twitch
+  * Robinhood
   * Tinder
   * MemSQL
   * Stripe
-  * Airbnb
-  * Asana
-  * Khan Academy
   * Slack
   * Lyft
   
