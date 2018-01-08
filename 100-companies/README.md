@@ -160,4 +160,17 @@
   * Stripe
   * Slack
   * Lyft
-  
+
+102. Others 
+  * Optiver
+  * DRW Holdings, LLC
+  * Jane Street
+  * IMC Financial Markets
+  * Citadel
+  * Jump Trading
+  * Five Rings Capital
+  * KCG Holdings
+  * D.E. Shaw Group
+  * Susquehanna
+  * AQR Capital
+  * Kensho
