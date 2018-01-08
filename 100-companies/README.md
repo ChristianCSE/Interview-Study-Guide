@@ -45,7 +45,6 @@
   * Lever
   * Periscope
   * Github
-  * Hudson Trading
   * Google
   * Cumulus
   * thumbtack
@@ -166,11 +165,21 @@
   * DRW Holdings, LLC
   * Jane Street
   * IMC Financial Markets
+  * Hudson River Trading
   * Citadel
   * Jump Trading
   * Five Rings Capital
+  * Akuna Capital
   * KCG Holdings
   * D.E. Shaw Group
-  * Susquehanna
+  * Susquehanna (SIG)
   * AQR Capital
+  * IMC Financial Markets
   * Kensho
+  * Getco
+  * Spot Trading
+  * Transmarket Group
+  * Chicago Trading Company
+  * Sun Trading
+  * Ronin Capital
+  * [misc](http://www.traderslog.com/proprietarytradingfirms)
