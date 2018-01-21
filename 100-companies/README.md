@@ -161,9 +161,12 @@
   * Lyft
 
 102. Others 
-  * Optiver
-  * DRW Holdings, LLC
   * Jane Street
+  * Wolverine Trading
+  * Optiver
+  * Peak6
+  * First New York
+  * DRW Holdings, LLC
   * IMC Financial Markets
   * Hudson River Trading
   * Citadel
@@ -182,4 +185,7 @@
   * Chicago Trading Company
   * Sun Trading
   * Ronin Capital
+  * Capstone Investment
+  * Tower Research Capital
+  * XR Trading
   * [misc](http://www.traderslog.com/proprietarytradingfirms)
