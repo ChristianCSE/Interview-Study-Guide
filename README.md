@@ -140,23 +140,30 @@ These will be discussed:
   * [Critical Java Readings](http://www.java67.com/2015/03/10-books-every-programmer-and-software-engineer-read.html)
   * [Codeforces](http://codeforces.com/blog/entry/46109)
   * [Project Ideas](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list)
+  * [bytebybyte](https://www.byte-by-byte.com/coding-interview-questions/)
+  * [firecode](https://www.firecode.io/)
   * [CodeAbbey](http://www.codeabbey.com/)
   * [CodeLab Interview Bit](https://codelab.interviewbit.com/)
   * [The Interview Hacker](https://theinterviewhacker.com/)
   * [skillgun](http://skillgun.com/)
-  
-  ### Questions
-  * [Airbnb K Edit Distance](http://buttercola.blogspot.com/2015/11/airbnb-k-edit-distance.html)
+  * [Top 10 Algos](https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+  * [Top 10 Algos Review](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+  * [Reddit Compiled Popular List](https://www.reddit.com/r/cscareerquestions/comments/20ahfq/heres_a_pretty_big_list_of_programming_interview/)
+  * [hackerearth](https://www.hackerearth.com/)
   
   ### Topics
   * [OOP Principles](https://www.clear.rice.edu/mech517/Books/oop3.pdf)
   * [50 OOP Questions](http://career.guru99.com/top-50-oops-interview-questions/)
   * [Big-O Cheat Sheet](http://bigocheatsheet.com/")   
+  * [Dynamic Programming](https://people.cs.clemson.edu/~bcdean/dp_practice/)
+  * [Graphs](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs)
+  * [Misc Topics](https://www.reddit.com/r/cscareerquestions/comments/2lzc4h/big_collection_of_interview_preparation_links/)
   
   ### Specific Question Types
   * [Dynamic Prog](http://www.ideserve.co.in/#dynamicProgramming)
   * [Dynamic Prog. Practice](https://people.cs.clemson.edu/~bcdean/dp_practice/)
   * [Dynamic Prog. Guide](https://www.quora.com/topic/Dynamic-Programming-DP)
+  * [System Design](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
   
   ### Prep Guides
   * [Guide](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
@@ -165,6 +172,9 @@ These will be discussed:
   * [Done Right!](http://www.cforcoding.com/2012/01/interview-programming-problems-done.html)
   * [Reddit Guide](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews)
   * [FB](https://www.facebook.com/careers/life/preparing-for-your-android-engineering-interview-at-facebook)
+  * [Udemy DS & Algos Jave](https://www.udemy.com/introduction-to-data-structures-algorithms-in-java/?start=0)
+  * [Jimmy Saade 6 Month Guide](https://www.quora.com/How-can-I-get-a-job-at-Facebook-or-Google-in-6-months-I-need-a-concise-work-plan-to-build-a-good-enough-skill-set-Should-I-join-some-other-start-up-or-build-my-own-projects-start-up-Should-I-just-focus-on-practicing-data-structures-and-algorithms/answer/Jimmy-Saade?srid=7myq)
+  * [Reddit General Tips](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)
 
 # Other Useful Tools 
   * [Quick System Design Cheat-Sheet](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
