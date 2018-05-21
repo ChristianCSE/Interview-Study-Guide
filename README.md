@@ -122,6 +122,7 @@ These will be discussed:
   * [CTCI 6th ed](https://github.com/careercup/CtCI-6th-Edition)
   * [TopCoder](https://community.topcoder.com/tc?module=ProblemArchive)
   * [Project Euler](https://projecteuler.net/archives)
+  * [Daily Coding Problem](https://www.dailycodingproblem.com/)
   * [CodeFights](https://codefights.com/home)
   * [Codewars](https://www.codewars.com/users/sign_in)
   * [Codeforces](http://www.codeforces.com/problemset?order=BY_SOLVED_DESC)

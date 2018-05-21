@@ -11,6 +11,8 @@
 |Title|Link|Description|
 |-----|:--:|----------:|
 |Nick McKeown| [link](http://yuba.stanford.edu/~nickm/papers/)| Stanford CS & EE Professor|
+|H. T. Kung|[link](https://en.wikipedia.org/wiki/H._T._Kung)|CS|
+|Charles E. Leiserson|[link](https://en.wikipedia.org/wiki/Charles_E._Leiserson)|CS|
 
 # Tools
 |Title|Link|Description|
@@ -38,6 +40,8 @@
 |Memory Leaks|[link](https://www.toptal.com/nodejs/debugging-memory-leaks-node-js-applications)|Tracking in Node.js|
 |Writing Commits|[link](https://chris.beams.io/posts/git-commit/)|git|
 |Databases|[link](http://www.mathcs.emory.edu/~cheung/Courses/554/Syllabus/syl.html#CURRENT)|Emory Course Notes|
+|MISD|[link](https://en.wikipedia.org/wiki/MISD)|Parellel Computing Architecture|
+|Cache-Oblivious Algorithm|[link](https://en.wikipedia.org/wiki/Cache-oblivious_algorithm)|Algos|
 
 # General Reading
 |Title|Link|
