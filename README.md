@@ -1,7 +1,7 @@
 # Study Guide Topics
 
 
-These will be discussed:
+These topics will be discussed:
 
 1. Sorting Algorithms
   * Bubble Sort
